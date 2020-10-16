@@ -1,6 +1,6 @@
 # Health e-Book
 
-### Technologies utilisée : React.Js, Material UI & Bootstrap.
+### Technologies utilisées : React.Js, Material UI & Bootstrap.
 
 ## site : https://health-ebook.netlify.app
 
